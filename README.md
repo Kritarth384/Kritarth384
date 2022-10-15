@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/Kritarth"><img src="https://api.daily.dev/devcards/f2566aba96034de088cbc730aee22287.png?r=kph" width="400" alt="kritarth's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Kritarth384/Kritarth384/devcard.svg" width="400" alt="Kritarth's Dev Card"/></a>
+
 
